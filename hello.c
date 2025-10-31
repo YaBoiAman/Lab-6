@@ -6,4 +6,3 @@ int main(void) {
     printf("\n V2");
     return 0;
 }
-// new line for demo
